@@ -1,4 +1,4 @@
-# review-sentylis
+# Review-sentylis
 Our project is about building a machine learning model
 which analyzes review based on performance thereby generating a score and use sentimental analysis to check the polarity
 of situation wherein it can be a deciding factor. We also aim at
